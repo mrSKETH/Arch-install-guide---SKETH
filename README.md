@@ -1,3 +1,9 @@
 # Arch-install-guide---SKETH
 
-1. [Manual](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/установка)
+1. [Установка](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/установка)
+2. [Первый запуск]
+3. [Первоначальная настройка]
+4. [Установка базовых пакетов]
+5. [Завершение и полезные советы]
+
+6. [Дополнительные полезные пакеты]
