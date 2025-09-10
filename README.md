@@ -6,4 +6,4 @@
 4. [Установка базовых пакетов](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/Установка-базовых-пакетов)
 5. [Завершение и полезные советы](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/Завершение-и-полезные-советы)
 # Не обязательное
-6. [Дополнительные полезные пакеты](
+6. [Дополнительные полезные пакеты](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/Дополнительные-полезные-пакеты)
