@@ -2,7 +2,7 @@
 
 1. [Установка](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/установка)
 2. [Первый запуск](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/Первый-запуск)
-3. [Первоначальная настройка]
+3. [Первоначальная настройка](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/Первоначальная-настройка)
 4. [Установка базовых пакетов]
 5. [Завершение и полезные советы]
 
