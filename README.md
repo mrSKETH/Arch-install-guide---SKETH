@@ -28,4 +28,4 @@ cd
 nmtui
 ````
 либо используйте iwctl который мы использовали в самом начале приу становке арч линукс 
-команды можно взять от [сюда](https://github.com/mrSKETH/tree/установка)
+команды можно взять от [сюда](https://github.com/mrSKETH/Arch-install-guide---SKETH/tree/установка)
