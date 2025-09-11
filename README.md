@@ -1,3 +1,21 @@
+# Дискорд\Ютуб фикс
+````
+yay nftables
+````
+````
+git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git
+````
+````
+cd zapret-discord-youtube-linux
+````
+````
+sudo bash main_script.sh
+````
+для автозапуска
+````
+sudo bash service.sh
+````
+
 # Все мои бинды из конфига
 `win+T` terminal
 `win+Q` killactive
