@@ -1,3 +1,7 @@
+# Темы для sddm (экран входа в систему)
+````
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"
+````
 # Дискорд\Ютуб фикс
 ````
 yay nftables
