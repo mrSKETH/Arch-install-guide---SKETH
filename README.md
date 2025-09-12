@@ -122,6 +122,10 @@ yay google-chrome
 
 2. Откройте терминал (**Win+Q**, в моём конфиге — **Win+T**) и введите:
 ````
+CD Download
+````
+или 
+````
 ````
 ````
 cp -r hyprland.conf ~/.config/hypr
