@@ -126,7 +126,9 @@ CD Download
 ````
 или 
 ````
+CD Загрузки
 ````
+можно посмотреть какую использовать через `ls` в главной папке
 ````
 cp -r hyprland.conf ~/.config/hypr
 cp -r hyprlock.conf ~/.config/hypr
