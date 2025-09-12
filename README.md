@@ -121,7 +121,8 @@ yay google-chrome
    * `hyprpaper.conf`
 
 2. Откройте терминал (**Win+Q**, в моём конфиге — **Win+T**) и введите:
-
+````
+````
 ````
 cp -r hyprland.conf ~/.config/hypr
 cp -r hyprlock.conf ~/.config/hypr
