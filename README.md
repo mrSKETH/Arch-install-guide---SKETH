@@ -1,4 +1,4 @@
-
+![.](https://djeqr6to3dedg.cloudfront.net/repo-logos/library/archlinux/live/logo-1720462154583.png)
 # 🐧 Arch Install Guide —  by SKETH
 
 Добро пожаловать в мой пошаговый гайд по установке и настройке **Arch Linux**.  
